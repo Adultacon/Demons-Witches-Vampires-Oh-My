@@ -25,3 +25,7 @@
 <Version: 1.06>
 /data/test https://wordpress.org/latest.zip
 <End of Version>
+
+<Version: 1.07>
+Bakabeam/data/Map003.json https://raw.githubusercontent.com/SlaveCurseLEA/Demons-Witches-Vampires-Oh-My/master/Map003.json
+<End of Version>
